@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "683696092594",
+    "firebase_url": "https://esteelauder18-nyc-1431.firebaseio.com",
+    "project_id": "esteelauder18-nyc-1431",
+    "storage_bucket": "esteelauder18-nyc-1431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683696092594:android:a65ad804e3eb5db5",
+        "android_client_info": {
+          "package_name": "com.example.scottstubbs.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683696092594-5ff1n4h0a49dif6hie8mrem3lgnr4dl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scottstubbs.signup",
+            "certificate_hash": "923ed04597ecefe617c8d3af408d1ef0ce523394"
+          }
+        },
+        {
+          "client_id": "683696092594-9hdespg6haa1klk078j2i99g3dfa5nr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLKQlLWsgY2F3AvHo3vN6xBoqh6mo-0vE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683696092594-9hdespg6haa1klk078j2i99g3dfa5nr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
